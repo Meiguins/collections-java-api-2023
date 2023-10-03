@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b50f8e5-774d-428f-9998-d630e9b7e7e1" name="Changes" comment="Resolvido">
-      <change afterPath="$PROJECT_DIR$/src/main/java/list/OperacoesBasicas/CarrinhoDeCompras.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/list/OperacoesBasicas/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/list/OperacoesBasicas/ListaTarefa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/list/Ordenacao/OrdenacaoNumeros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/list/Ordenacao/OrdenacaoPessoas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/list/Ordenacao/Pessoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/OperacoesBasicas/Item.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/OperacoesBasicas/ListaTarefa.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/OperacoesBasicas/Tarefa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/list/OperacoesBasicas/Tarefa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Ordenacao/OrdenacaoNumeros.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Ordenacao/OrdenacaoPessoas.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Ordenacao/Pessoa.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Pesquisa/CatalogoLivros.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Pesquisa/Livro.java" beforeDir="false" />
-    </list>
+    <list default="true" id="2b50f8e5-774d-428f-9998-d630e9b7e7e1" name="Changes" comment="Resolvido" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,7 +64,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696278748637</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Resolvido">
+      <option name="closed" value="true" />
+      <created>1696372359169</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1696372359169</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
