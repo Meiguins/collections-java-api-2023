@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b50f8e5-774d-428f-9998-d630e9b7e7e1" name="Changes" comment="Resolvido" />
+    <list default="true" id="2b50f8e5-774d-428f-9998-d630e9b7e7e1" name="Changes" comment="Resolvido 2">
+      <change afterPath="$PROJECT_DIR$/src/main/java/set/OperacoesBasicas/ConjuntoConvidados.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/set/OperacoesBasicas/Convidado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/set/OperacoesBasicas/Convidado.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,8 +24,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Meiguins"
+  }
+}]]></component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="b1dd0799-2713-440e-9e79-25f000ded8d6" />
+        <option name="url" value="https://github.com/Meiguins/collections-java-api-2023.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -72,12 +90,32 @@
       <option name="project" value="LOCAL" />
       <updated>1696372359169</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Resolvido 2">
+      <option name="closed" value="true" />
+      <created>1696372551537</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1696372551537</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Resolvido" />
-    <option name="LAST_COMMIT_MESSAGE" value="Resolvido" />
+    <MESSAGE value="Resolvido 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Resolvido 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
