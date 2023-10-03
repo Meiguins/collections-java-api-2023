@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b50f8e5-774d-428f-9998-d630e9b7e7e1" name="Changes" comment="Resolvido 2">
-      <change afterPath="$PROJECT_DIR$/src/main/java/set/OperacoesBasicas/ConjuntoConvidados.java" afterDir="false" />
+    <list default="true" id="2b50f8e5-774d-428f-9998-d630e9b7e7e1" name="Changes" comment="Resolvido 3">
+      <change afterPath="$PROJECT_DIR$/src/main/java/set/OperacoesBasicas/ConjuntoPalavrasUnicas.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/set/OperacoesBasicas/ConjuntoConvidados.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/set/OperacoesBasicas/ConjuntoConvidados.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/set/OperacoesBasicas/Convidado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/set/OperacoesBasicas/Convidado.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -98,7 +99,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696372551537</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Resolvido 3">
+      <option name="closed" value="true" />
+      <created>1696373944100</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1696373944100</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -115,7 +124,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Resolvido" />
     <MESSAGE value="Resolvido 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Resolvido 2" />
+    <MESSAGE value="Resolvido 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Resolvido 3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
