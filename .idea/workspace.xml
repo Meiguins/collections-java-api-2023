@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b50f8e5-774d-428f-9998-d630e9b7e7e1" name="Changes" comment="Resolvido &#10;Atualizando com os exercícios de Set, desde Operações Básicas e Pesquisa" />
+    <list default="true" id="2b50f8e5-774d-428f-9998-d630e9b7e7e1" name="Changes" comment="Resolvido &#10;Atualizando com os exercícios de Set, desde Operações Básicas e Pesquisa">
+      <change afterPath="$PROJECT_DIR$/src/main/java/set/Ordenacao/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/set/Ordenacao/CadastroProdutos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/set/Ordenacao/GerenciadorAlunos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/set/Ordenacao/Produtos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -126,7 +132,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696443761393</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Resolvido &#10;Atualizando com os exercícios de Set, desde Operações Básicas e Pesquisa">
+      <option name="closed" value="true" />
+      <created>1696443779746</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1696443779746</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -146,7 +160,9 @@
     <MESSAGE value="Resolvido 3" />
     <MESSAGE value="Resolvido &#10;Acabei cometendo alguns erros, já foram resolvidos.&#10;Adicionei uma nova classe." />
     <MESSAGE value="Resolvido &#10;Atualizando com os exercícios de Set, desde Operações Básicas e Pesquisa" />
-    <option name="LAST_COMMIT_MESSAGE" value="Resolvido &#10;Atualizando com os exercícios de Set, desde Operações Básicas e Pesquisa" />
+    <MESSAGE value="Resolvido&#10;Atualizando com os exercícios de Set, desde Operações Básicas e Pesquisa" />
+    <MESSAGE value="novo" />
+    <option name="LAST_COMMIT_MESSAGE" value="novo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -155,6 +171,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
           <line>15</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/set/Pesquisa/Tarefa.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
