@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b50f8e5-774d-428f-9998-d630e9b7e7e1" name="Changes" comment="Resolvido &#10;Acabei cometendo alguns erros, já foram resolvidos.&#10;Adicionei uma nova classe.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/set/Pesquisa/AgendaContatos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/set/Pesquisa/Contato.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/set/Pesquisa/ListaTarefas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/set/Pesquisa/Tarefas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2b50f8e5-774d-428f-9998-d630e9b7e7e1" name="Changes" comment="Resolvido &#10;Atualizando com os exercícios de Set, desde Operações Básicas e Pesquisa" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -116,7 +110,23 @@
       <option name="project" value="LOCAL" />
       <updated>1696374552057</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Resolvido &#10;Atualizando com os exercícios de Set, desde Operações Básicas e Pesquisa">
+      <option name="closed" value="true" />
+      <created>1696443668600</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1696443668600</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Resolvido &#10;Atualizando com os exercícios de Set, desde Operações Básicas e Pesquisa">
+      <option name="closed" value="true" />
+      <created>1696443761392</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1696443761393</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -135,7 +145,8 @@
     <MESSAGE value="Resolvido 2" />
     <MESSAGE value="Resolvido 3" />
     <MESSAGE value="Resolvido &#10;Acabei cometendo alguns erros, já foram resolvidos.&#10;Adicionei uma nova classe." />
-    <option name="LAST_COMMIT_MESSAGE" value="Resolvido &#10;Acabei cometendo alguns erros, já foram resolvidos.&#10;Adicionei uma nova classe." />
+    <MESSAGE value="Resolvido &#10;Atualizando com os exercícios de Set, desde Operações Básicas e Pesquisa" />
+    <option name="LAST_COMMIT_MESSAGE" value="Resolvido &#10;Atualizando com os exercícios de Set, desde Operações Básicas e Pesquisa" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
