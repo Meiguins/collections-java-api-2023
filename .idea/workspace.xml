@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b50f8e5-774d-428f-9998-d630e9b7e7e1" name="Changes" comment="Resolvido &#10;Atualizando com os exercícios de Set, desde Operações Básicas e Pesquisa">
-      <change afterPath="$PROJECT_DIR$/src/main/java/set/Ordenacao/Aluno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/set/Ordenacao/CadastroProdutos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/set/Ordenacao/GerenciadorAlunos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/set/Ordenacao/Produtos.java" afterDir="false" />
+    <list default="true" id="2b50f8e5-774d-428f-9998-d630e9b7e7e1" name="Changes" comment="Adicionando Set.Ordenação">
+      <change afterPath="$PROJECT_DIR$/src/main/java/map/OperacoesBasicas/AgendaContatos.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +21,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -67,6 +65,26 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="AgendaContatos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="map.OperacoesBasicas.AgendaContatos" />
+      <module name="collections-java-api-2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="map.OperacoesBasicas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AgendaContatos" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -140,7 +158,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696443779746</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Adicionando Set.Ordenação">
+      <option name="closed" value="true" />
+      <created>1696444795473</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1696444795473</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -162,7 +188,8 @@
     <MESSAGE value="Resolvido &#10;Atualizando com os exercícios de Set, desde Operações Básicas e Pesquisa" />
     <MESSAGE value="Resolvido&#10;Atualizando com os exercícios de Set, desde Operações Básicas e Pesquisa" />
     <MESSAGE value="novo" />
-    <option name="LAST_COMMIT_MESSAGE" value="novo" />
+    <MESSAGE value="Adicionando Set.Ordenação" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adicionando Set.Ordenação" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
